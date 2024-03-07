@@ -123,10 +123,10 @@ h2 {
   text-align: center;
   font-size: 24px;
   padding-left: 20px;
+  padding-bottom: 20px;
 }
 
 header {
-
   text-align: center;
 }
 
@@ -143,6 +143,9 @@ img {
 p {
   margin-bottom: 20px;
   padding-left: 20px;
+  line-height: 1.5;
+  font-size: 1rem; /* i know its in font css but i put it here just in case*/
+  font-weight: 500;
 }
 
 button {
